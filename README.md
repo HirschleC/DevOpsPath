@@ -5,6 +5,7 @@
 DevOps Prototype
 * Understanding DevOps by doing it :-)
 Thomas schreibt... :-)
+* Manu auch
 
 ## Required Tools
 * Git (https://git-scm.com/)
