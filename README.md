@@ -4,8 +4,7 @@
 
 DevOps Prototype
 * Understanding DevOps by doing it :-)
-Thomas schreibt... :-)
-* Manu auch
+* __Build mit Jenkins__
 
 ## Required Tools
 * Git (https://git-scm.com/)
